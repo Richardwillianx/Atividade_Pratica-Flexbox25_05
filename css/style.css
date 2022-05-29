@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.circleyellow {
+  height: 100px;
+  width: 100px;
+  background: #ff9900;
+  border-radius: 50%;
+}
+.circleblue {
+  height: 100px;
+  width: 100px;
+  background: #0b5394;
+  border-radius: 50%;
+}
